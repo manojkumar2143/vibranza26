@@ -1,4 +1,7 @@
-const GOOGLE_FORM_URLS={red:"PASTE_RED_HOUSE_GOOGLE_FORM_URL_HERE",yellow:"PASTE_YELLOW_HOUSE_GOOGLE_FORM_URL_HERE",green:"PASTE_GREEN_HOUSE_GOOGLE_FORM_URL_HERE",blue:"PASTE_BLUE_HOUSE_GOOGLE_FORM_URL_HERE"};
+const GOOGLE_FORM_URLS={red:"https://forms.gle/wdndaLipoSDdkkjR9",
+                        yellow:"https://forms.gle/wdndaLipoSDdkkjR9",
+                        green:"https://forms.gle/wdndaLipoSDdkkjR9",
+                        blue:"https://forms.gle/wdndaLipoSDdkkjR9"};
 
 const houses={
 red:{name:"RED HOUSE",color:"#d9343b",motto:"Courage Creates Change",departments:["B.COM GEN","BCA","PHY","PSY","MATHS","Social Work","AI","CS","M.Sc Maths"],animators:["Mr.M.Ramachandrapandiyan","Ms.R.Sagunthala Devi","Ms. Asiya Parveen"]},
